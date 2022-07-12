@@ -8,5 +8,6 @@ class Three {
         for(int i=1; i<11; i++){
             System.out.println(mul + "*" + i + "=" + mul*i);
         }
+        sc.close();
     }
 }

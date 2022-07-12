@@ -15,6 +15,7 @@ class Five {
                 y = true;
                 System.out.print("Sum of all the numbers is: " + sum);
             }
+            sc.close();
         }
     }    
 }
